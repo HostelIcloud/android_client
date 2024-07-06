@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608851883831",
+    "project_id": "hostelicloud-86766",
+    "storage_bucket": "hostelicloud-86766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608851883831:android:c88c5229e3b83cf4faccb2",
+        "android_client_info": {
+          "package_name": "com.hostelicloud.android_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Hq2YOEqpvJ1VCz7-adUSXJhmrVS6KHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
